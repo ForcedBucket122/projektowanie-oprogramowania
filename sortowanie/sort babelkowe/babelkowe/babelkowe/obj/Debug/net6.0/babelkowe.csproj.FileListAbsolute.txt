@@ -1,0 +1,14 @@
+C:\Users\SzczypkaJakub\Desktop\projO\sortowanie\sort babelkowe\babelkowe\babelkowe\bin\Debug\net6.0\babelkowe.exe
+C:\Users\SzczypkaJakub\Desktop\projO\sortowanie\sort babelkowe\babelkowe\babelkowe\bin\Debug\net6.0\babelkowe.deps.json
+C:\Users\SzczypkaJakub\Desktop\projO\sortowanie\sort babelkowe\babelkowe\babelkowe\bin\Debug\net6.0\babelkowe.runtimeconfig.json
+C:\Users\SzczypkaJakub\Desktop\projO\sortowanie\sort babelkowe\babelkowe\babelkowe\bin\Debug\net6.0\babelkowe.dll
+C:\Users\SzczypkaJakub\Desktop\projO\sortowanie\sort babelkowe\babelkowe\babelkowe\bin\Debug\net6.0\babelkowe.pdb
+C:\Users\SzczypkaJakub\Desktop\projO\sortowanie\sort babelkowe\babelkowe\babelkowe\obj\Debug\net6.0\babelkowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SzczypkaJakub\Desktop\projO\sortowanie\sort babelkowe\babelkowe\babelkowe\obj\Debug\net6.0\babelkowe.AssemblyInfoInputs.cache
+C:\Users\SzczypkaJakub\Desktop\projO\sortowanie\sort babelkowe\babelkowe\babelkowe\obj\Debug\net6.0\babelkowe.AssemblyInfo.cs
+C:\Users\SzczypkaJakub\Desktop\projO\sortowanie\sort babelkowe\babelkowe\babelkowe\obj\Debug\net6.0\babelkowe.csproj.CoreCompileInputs.cache
+C:\Users\SzczypkaJakub\Desktop\projO\sortowanie\sort babelkowe\babelkowe\babelkowe\obj\Debug\net6.0\babelkowe.dll
+C:\Users\SzczypkaJakub\Desktop\projO\sortowanie\sort babelkowe\babelkowe\babelkowe\obj\Debug\net6.0\refint\babelkowe.dll
+C:\Users\SzczypkaJakub\Desktop\projO\sortowanie\sort babelkowe\babelkowe\babelkowe\obj\Debug\net6.0\babelkowe.pdb
+C:\Users\SzczypkaJakub\Desktop\projO\sortowanie\sort babelkowe\babelkowe\babelkowe\obj\Debug\net6.0\babelkowe.genruntimeconfig.cache
+C:\Users\SzczypkaJakub\Desktop\projO\sortowanie\sort babelkowe\babelkowe\babelkowe\obj\Debug\net6.0\ref\babelkowe.dll
