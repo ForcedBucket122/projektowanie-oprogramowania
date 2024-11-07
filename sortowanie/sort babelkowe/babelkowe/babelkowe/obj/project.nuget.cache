@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "SLF6ijOwN6TEUZRpge3yENoRqLunwjIC6JT//Y+nKHtOXMLA4AtiDgl2qYusVHARtps6nDnM1IagZyTTop5C/A==",
+  "dgSpecHash": "oewfwh8PqJI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\SzczypkaJakub\\Desktop\\projO\\sortowanie\\sort babelkowe\\babelkowe\\babelkowe\\babelkowe.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\SZKOLA\\projektowanie-oprogramowania\\sortowanie\\sort babelkowe\\babelkowe\\babelkowe\\babelkowe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafik\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\Rafik\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\Rafik\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\Rafik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
   "logs": []
 }

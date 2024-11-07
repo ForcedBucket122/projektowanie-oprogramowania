@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("babelkowe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f855102a82cb58387e1b3316ec4ad776f8da6ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("babelkowe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("babelkowe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
